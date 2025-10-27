@@ -1,6 +1,10 @@
-# 01 - Number Guessing Game 🎲
+# Number Guessing Game 🎲
 
-Description: Python game where the user must guess a random number between 1 and 100, with **difficulty levels and attempt history**.
+A simple Python number guessing game project from [Roadmap.sh](https://roadmap.sh/projects/number-guessing-game).
+
+## Description
+
+Python game where the user must guess a random number between 1 and 100, with **difficulty levels and attempt history**.
 
 ## Features
 
