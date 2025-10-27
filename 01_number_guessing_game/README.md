@@ -1,6 +1,6 @@
 # Number Guessing Game 🎲
 
-A simple Python number guessing game project from [Roadmap.sh](https://roadmap.sh/projects/number-guessing-game).
+A simple Python number guessing game project from [https://roadmap.sh/projects/number-guessing-game](https://roadmap.sh/projects/number-guessing-game)
 
 ## Description
 
