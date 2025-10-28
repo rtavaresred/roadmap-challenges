@@ -1,10 +1,11 @@
-# Roadmap Challenges 🧭 [English]
+# Roadmap Challenges 🧭
 
-Projects developed following the challenges from [roadmap.sh](https://roadmap.sh).
+Projects developed based on the challenges from [roadmap.sh](https://roadmap.sh).
 
 ## Challenge List
 
-1. [01 - Number Guessing Game](./01_number_guessing_game/) - Python game with difficulty levels where the user tries to guess a random number.
+1. [01 - Number Guessing Game](./01_number_guessing_game/) — A Python game with multiple difficulty levels where the user tries to guess a random number.  
+   Challenge link: [Number Guessing Game on roadmap.sh](https://roadmap.sh/projects/number-guessing-game)
 
 ---
 
